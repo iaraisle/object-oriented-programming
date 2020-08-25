@@ -8,12 +8,12 @@ public class Animal {
 
     //creo los metodos (Void es la palabra reservada para cuando no se retorna informacion)
     void move() {
-        System.out.print("I'm running");
+        System.out.print("Estoy en movimiento");
     }
     void sleep() {
-        System.out.print("Zzz");
+        System.out.print("Estoy durmiendo");
     }
     void eat() {
-        System.out.print("I'm eating");
+        System.out.print("Estoy comiendo");
     }
 }

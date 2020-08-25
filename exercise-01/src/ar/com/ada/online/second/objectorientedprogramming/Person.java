@@ -8,12 +8,12 @@ public class Person {
 
     //creo los metodos (Void es la palabra reservada para cuando no se retorna informacion)
     void sing() {
-        System.out.print("Sol La Si Do~");
+        System.out.print("Estoy cantando");
     }
     void talk() {
-        System.out.print("Bla bla bla");
+        System.out.print("Estoy hablando");
     }
     void play() {
-        System.out.print("I'm playing");
+        System.out.print("Estoy jugando");
     }
 }

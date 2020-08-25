@@ -8,9 +8,9 @@ public class Vehicle {
 
     //creo los metodos (Void es la palabra reservada para cuando no se retorna informacion)
     void moveOn() {
-        System.out.print("I'm moving");
+        System.out.print("Estoy en movimiento");
     }
     void brake() {
-        System.out.print("I stoped");
+        System.out.print("Me rompí");
     }
 }
