@@ -47,7 +47,7 @@ public class Person {
     //String.format("Person: {name = %s, lastName = %s} ", this.name, this.lastName);
 
     @Override
-    public int hashCode(){
+    public int hashCode() {
         return 20 * Objects.hash(this.name, this.lastName);
     }
 

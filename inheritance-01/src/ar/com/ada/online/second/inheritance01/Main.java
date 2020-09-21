@@ -4,10 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-	    Person person1 = new Person("Matt", "Murdock");
+        Person person1 = new Person("Matt", "Murdock");
         Person person2 = new Person("Stephen", "Strange");
-	    Person person3 = new Person("Natasha", "Romanov");
-	    Person person4 = new Person("Carol", "Danvers");
+        Person person3 = new Person("Natasha", "Romanov");
+        Person person4 = new Person("Carol", "Danvers");
 
         System.out.println("person1.toString(): " + person1.toString());
         System.out.println("person2.toString(): " + person2.toString());
